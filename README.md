@@ -9,7 +9,7 @@ I'm currently a year 11 high school student learning to code. I plan on pursuing
 <!--gifs from: https://giphy.com/gifs/pudgypenguins-pudgy-penguin-penguins-CuuSHzuc0O166MRfjt & https://giphy.com/gifs/reaction-55itGuoAJiZEEen9gg & https://giphy.com/gifs/action-7SrHwak3yoO9a-->
 
 ##
-I plan on learning:<br><br>
+I intend to learn:<br><br>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
@@ -18,6 +18,17 @@ I plan on learning:<br><br>
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
 <!--badges from: https://github.com/Ileriayo/markdown-badges-->
+
+##
+<p float="left">
+  <kbd>
+    <img align="center" height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alxu31&hide_progress=true&theme=blueberry&hide_border=true">
+  </kbd>
+  <kbd>
+    <img align="center" height="140" src="https://github-readme-stats.vercel.app/api?username=alxu31&show_icons=true&rank_icon=github&theme=blueberry&hide=contribs,prs&custom_title=Statistics&hide_border=true">
+  </kbd>
+</p>
+<!--cards from: https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#hiding-individual-stats-->
 
 ##
 
