@@ -23,10 +23,10 @@ I intend to learn:<br><br>
 ##
 <p float="left">
   <kbd>
-    <a href="https://www.google.com/search?q=coding languages"><img align="center" height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alxu31&hide_progress=true&theme=blueberry&hide_border=true"></a>
+    <a href="https://www.google.com/search?q=coding languages"><img align="center" height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alxu31&hide_progress=true&theme=transparent&hide_border=true"></a>
   </kbd>
   <kbd>
-    <a href="https://www.google.com/search?q=horrible github stats"><img align="center" height="140" src="https://github-readme-stats.vercel.app/api?username=alxu31&show_icons=true&rank_icon=github&theme=blueberry&hide=contribs,prs&custom_title=Statistics&hide_border=true"></a>
+    <a href="https://www.google.com/search?q=horrible github stats"><img align="center" height="140" src="https://github-readme-stats.vercel.app/api?username=alxu31&show_icons=true&rank_icon=github&theme=transparent&hide=contribs,stars&custom_title=Statistics&hide_border=true"></a>
   </kbd>
 </p>
 <!--cards from: https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#hiding-individual-stats-->
