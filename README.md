@@ -16,7 +16,8 @@ I intend to learn:<br><br>
 <a href="https://www.google.com/search?q=htmlll"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
 <a href="https://www.google.com/search?q=css"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
 <a href="https://www.google.com/search?q=is c++ even good"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
-<a href="https://www.google.com/search?q=coding helps me 'c' AHHAHA"><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"></a>
+<a href="https://www.google.com/search?q=coding helps me 'c' LOL"><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"></a>
+<a href="https://www.google.com/search?q=GO DOT!"><img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine"></a>
 <!--badges from: https://github.com/Ileriayo/markdown-badges-->
 
 ##
