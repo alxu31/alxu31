@@ -1,5 +1,5 @@
 ## Hey👋, I'm alxu31.
-I'm currently a year 11 high school student learning to code. I plan on pursuing computer science or software engineering in university.
+I'm currently a year 12 high school student learning to code. I plan on pursuing computer science or software engineering in university.
 ##
 <figure>
   <kbd><a href="https://www.google.com/search?q=totoro!"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3FyendjMDVoYTBrajZkMmZvM2dmYTU4dmo0Ym80MGdxbGY1MjhhYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pYNhxuY2Xx528/giphy.webp" height="200"></a></kbd>
